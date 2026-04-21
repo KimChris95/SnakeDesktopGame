@@ -104,22 +104,6 @@ java -cp "bin:lib/*" com.kimplecker.snake.Main
 
 ---
 
-### Optional: run using helper script
-
-If available:
-
-Windows:
-
-```bash
-run.bat
-```
-
-Linux / macOS:
-
-```bash
-./run.sh
-```
-
 ---
 
 ### Project requirements

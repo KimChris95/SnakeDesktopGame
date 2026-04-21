@@ -39,8 +39,8 @@ javac -version
 If both commands return a version number like:
 
 ```
-java version "21.x.x"
-javac 21.x.x
+openjdk version "25.x.x"
+javac 25.x.x
 ```
 
 Java is installed correctly and you can continue.

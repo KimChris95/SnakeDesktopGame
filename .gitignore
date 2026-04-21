@@ -31,3 +31,5 @@ bin/
 
 # Local runtime files
 highscore.txt
+.sql
+.db

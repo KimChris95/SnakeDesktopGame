@@ -102,10 +102,6 @@ Linux / macOS:
 java -cp "bin:lib/*" com.kimplecker.snake.Main
 ```
 
----
-
----
-
 ### Project requirements
 
 - Java JDK 17 or newer (recommended: JDK 21)

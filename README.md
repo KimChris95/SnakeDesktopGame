@@ -19,8 +19,4 @@ A classic Snake implementation built with Java Swing.
 - SQLite
 - JDBC
 
-## Run locally
 
-```bash
-javac Main.java
-java Main

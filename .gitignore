@@ -28,3 +28,5 @@ bin/
 .classpath
 .project
 *.class
+.metadata
+highscore.txt
